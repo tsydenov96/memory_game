@@ -1,0 +1,50 @@
+.container{
+	width: 136px;
+	height: 136px;
+	border: 1px solid gray;
+}
+.cell{
+	width: 30px; 
+	height: 30px; 
+	float: left; 
+	display: block; 
+	cursor: pointer; 
+	margin: 1px; 
+	border: 1px solid black;
+}
+
+
+/* Cards */
+.color1{
+	background-color: red;
+}
+
+.color2{
+	background-color: green;
+}
+
+.color3{
+	background-color: gray;
+}
+
+.color4{
+	background-color: yellow;
+}
+
+.color5{
+	background-color: blue;
+}
+
+.color6{
+	background-color: brown;
+}
+
+.color7{
+	background-color: pink;
+}
+.color8{
+	background-color: orange;
+}
+.hidden{
+	background-color: white;
+}
